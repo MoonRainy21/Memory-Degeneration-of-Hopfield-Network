@@ -1,6 +1,6 @@
 # Memory-Degeneration-of-Hopfield-Network
 
-This Repository is supplemental information for [Memory Degeneration of Hopfield Network(2022)]().
+This Repository is supplemental information for [Memory Degeneration of Hopfield Network(2022)](https://github.com/MoonRainy21/Memory-Degeneration-of-Hopfield-Network/blob/master/Memory%20Degeneration%20of%20Hopfield%20Network.pdf).
 
 ## Abstract
 
